@@ -1,0 +1,189 @@
+[
+    {
+        "word": "relies on",
+        "meaning": "dayanır",
+        "sentence_en": "The success of the project heavily relies on the collaboration between different departments.",
+        "sentence_tr": "Projenin başarısı büyük ölçüde farklı departmanlar arasındaki iş birliğine dayanır."
+    },
+    {
+        "word": "further",
+        "meaning": "daha fazla",
+        "sentence_en": "The research team conducted further experiments to validate their findings.",
+        "sentence_tr": "Araştırma ekibi, bulgularını doğrulamak için daha fazla deney yaptı."
+    },
+    {
+        "word": "latency",
+        "meaning": "gecikme süresi",
+        "sentence_en": "The latency in the network connection caused delays in the real-time data processing.",
+        "sentence_tr": "Ağ bağlantısındaki gecikme süresi, gerçek zamanlı veri işlemeyi geciktirdi."
+    },
+    {
+        "word": "hurdles",
+        "meaning": "engeller",
+        "sentence_en": "Despite numerous hurdles, the startup managed to secure significant funding from investors.",
+        "sentence_tr": "Çok sayıda engele rağmen, girişim yatırımcılardan önemli bir fon sağlamayı başardı."
+    },
+    {
+        "word": "demand",
+        "meaning": "talep",
+        "sentence_en": "The increasing demand for electric vehicles is reshaping the automotive industry.",
+        "sentence_tr": "Elektrikli araçlara artan talep, otomotiv endüstrisini yeniden şekillendiriyor."
+    },
+    {
+        "word": "enhance",
+        "meaning": "geliştirmek",
+        "sentence_en": "The company implemented new strategies to enhance customer satisfaction.",
+        "sentence_tr": "Şirket, müşteri memnuniyetini artırmak için yeni stratejiler uyguladı."
+    },
+    {
+        "word": "infrastructure",
+        "meaning": "altyapı",
+        "sentence_en": "Developing countries need substantial investments in infrastructure to boost economic growth.",
+        "sentence_tr": "Gelişmekte olan ülkeler, ekonomik büyümeyi artırmak için altyapıya önemli yatırımlara ihtiyaç duyar."
+    },
+    {
+        "word": "ensure",
+        "meaning": "sağlamak",
+        "sentence_en": "The safety protocols are designed to ensure the well-being of all employees.",
+        "sentence_tr": "Güvenlik protokolleri, tüm çalışanların refahını sağlamak için tasarlanmıştır."
+    },
+    {
+        "word": "aspect",
+        "meaning": "yön",
+        "sentence_en": "Cultural differences are an important aspect to consider in international business.",
+        "sentence_tr": "Kültürel farklılıklar, uluslararası iş dünyasında dikkate alınması gereken önemli bir yöndür."
+    },
+    {
+        "word": "encryption",
+        "meaning": "şifreleme",
+        "sentence_en": "Data encryption is crucial to protect sensitive information from unauthorized access.",
+        "sentence_tr": "Veri şifreleme, hassas bilgileri yetkisiz erişimden korumak için çok önemlidir."
+    },
+    {
+        "word": "scalability",
+        "meaning": "ölçeklenebilirlik",
+        "sentence_en": "The scalability of the system allows it to handle an increasing number of users effortlessly.",
+        "sentence_tr": "Sistemin ölçeklenebilirliği, artan kullanıcı sayısını sorunsuz bir şekilde yönetmesini sağlar."
+    },
+    {
+        "word": "priority",
+        "meaning": "öncelik",
+        "sentence_en": "The team agreed that improving user security should be their top priority.",
+        "sentence_tr": "Ekip, kullanıcı güvenliğini artırmanın en büyük öncelikleri olması gerektiği konusunda anlaştı."
+    },
+    {
+        "word": "degradation",
+        "meaning": "bozulma",
+        "sentence_en": "Prolonged exposure to harsh environments led to the degradation of the material's quality.",
+        "sentence_tr": "Uzun süreli sert çevre koşullarına maruz kalma, malzemenin kalitesinin bozulmasına yol açtı."
+    },
+    {
+        "word": "robust",
+        "meaning": "sağlam",
+        "sentence_en": "The engineers designed a robust system to withstand extreme conditions.",
+        "sentence_tr": "Mühendisler, aşırı koşullara dayanabilecek sağlam bir sistem tasarladılar."
+    },
+    {
+        "word": "maintenance",
+        "meaning": "bakım",
+        "sentence_en": "Regular maintenance of machinery can prevent unexpected breakdowns.",
+        "sentence_tr": "Makinelerin düzenli bakımı, beklenmedik arızaları önleyebilir."
+    },
+    {
+        "word": "precision",
+        "meaning": "hassas",
+        "sentence_en": "The surgeon worked with great precision during the operation.",
+        "sentence_tr": "Cerrah operasyon sırasında büyük bir hassasiyetle çalıştı."
+    },
+    {
+        "word": "common",
+        "meaning": "ortak",
+        "sentence_en": "They found a common interest in their love for painting.",
+        "sentence_tr": "Resim sevgilerinde ortak bir ilgi buldular."
+    },
+    {
+        "word": "predicted",
+        "meaning": "öngörülen",
+        "sentence_en": "The weather report predicted heavy rain for tomorrow.",
+        "sentence_tr": "Hava durumu raporu yarın için yoğun yağış öngördü."
+    },
+    {
+        "word": "nodded",
+        "meaning": "başını salladı",
+        "sentence_en": "She nodded in agreement with the proposal.",
+        "sentence_tr": "Teklifi kabul ederek başını salladı."
+    },
+    {
+        "word": "surgeon",
+        "meaning": "Cerrah",
+        "sentence_en": "The surgeon performed a complex heart surgery.",
+        "sentence_tr": "Cerrah karmaşık bir kalp ameliyatı gerçekleştirdi."
+    },
+    {
+        "word": "precise",
+        "meaning": "hassas",
+        "sentence_en": "He gave a precise explanation of the problem.",
+        "sentence_tr": "Sorunun hassas bir açıklamasını yaptı."
+    },
+    {
+        "word": "patient",
+        "meaning": "Hasta",
+        "sentence_en": "The patient recovered quickly after the operation.",
+        "sentence_tr": "Hasta ameliyattan sonra hızla iyileşti."
+    },
+    {
+        "word": "appeared",
+        "meaning": "ortaya çıktı",
+        "sentence_en": "A rainbow appeared after the rain stopped.",
+        "sentence_tr": "Yağmur durduktan sonra bir gökkuşağı ortaya çıktı."
+    },
+    {
+        "word": "highlighting",
+        "meaning": "vurgulayarak",
+        "sentence_en": "The teacher is highlighting the importance of practice.",
+        "sentence_tr": "Öğretmen, pratik yapmanın önemini vurguluyor."
+    },
+    {
+        "word": "recommend",
+        "meaning": "tavsiye ederim",
+        "sentence_en": "I recommend this book for anyone interested in history.",
+        "sentence_tr": "Tarihe ilgi duyan herkese bu kitabı tavsiye ederim."
+    },
+    {
+        "word": "proceed",
+        "meaning": "devam et",
+        "sentence_en": "You can proceed with your presentation now.",
+        "sentence_tr": "Şimdi sunumuna devam edebilirsin."
+    },
+    {
+        "word": "fragile",
+        "meaning": "kırılgan",
+        "sentence_en": "Handle the glass with care because it is fragile.",
+        "sentence_tr": "Camı dikkatlice taşı, çünkü kırılgan."
+    },
+    {
+        "word": "tissue",
+        "meaning": "doku",
+        "sentence_en": "The surgeon carefully repaired the damaged tissue.",
+        "sentence_tr": "Cerrah hasarlı dokuyu dikkatlice onardı."
+    },
+    {
+        "word": "stitched",
+        "meaning": "dikiş",
+        "sentence_en": "The doctor stitched the wound after cleaning it.",
+        "sentence_tr": "Doktor yarayı temizledikten sonra dikiş attı."
+    },
+    {
+        "word": "throughout",
+        "meaning": "boyunca",
+        "sentence_en": "The movie kept us entertained throughout the evening.",
+        "sentence_tr": "Film, akşam boyunca bizi eğlendirdi."
+    },
+    {
+        "word": "sighed with relief",
+        "meaning": "rahatlayarak iç çekti",
+        "sentence_en": "She sighed with relief after hearing the good news.",
+        "sentence_tr": "İyi haberi duyduktan sonra rahatlayarak iç çekti."
+    }
+
+]
